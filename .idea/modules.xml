@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KimdaBuiler.iml" filepath="$PROJECT_DIR$/KimdaBuiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PersonDemo/PersonDemo.iml" filepath="$PROJECT_DIR$/PersonDemo/PersonDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textviewbuilderDemo01(Error)/textviewbuilderDemo01(Error).iml" filepath="$PROJECT_DIR$/textviewbuilderDemo01(Error)/textviewbuilderDemo01(Error).iml" />
+      <module fileurl="file://$PROJECT_DIR$/textviewbuilderdemo02/textviewbuilderdemo02.iml" filepath="$PROJECT_DIR$/textviewbuilderdemo02/textviewbuilderdemo02.iml" />
+    </modules>
+  </component>
+</project>
