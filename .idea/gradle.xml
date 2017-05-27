@@ -8,7 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/PersonDemo" />
+            <option value="$PROJECT_DIR$/PersonDemo01" />
+            <option value="$PROJECT_DIR$/PersonDemo02" />
             <option value="$PROJECT_DIR$/textviewbuilderDemo01(Error)" />
             <option value="$PROJECT_DIR$/textviewbuilderdemo02" />
           </set>
